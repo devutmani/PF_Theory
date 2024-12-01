@@ -1,3 +1,10 @@
+/*
+  Name: Dev Kumar
+  RollNo: 24K-0028
+  Section: AI-1A
+  Desc: PF Assignment 2
+*/
+
 #include<stdio.h>
 #include<string.h>
 int main()
