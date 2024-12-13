@@ -1,3 +1,10 @@
+/**
+ * Name: Dev Kumar
+ * Roll No: 24K-0028
+ * Section: AI-1A
+ * Desc: PF Assignment 3
+ */
+
 #include <stdio.h>
 
 struct Player 
